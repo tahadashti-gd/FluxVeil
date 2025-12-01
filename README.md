@@ -6,7 +6,6 @@ A minimal and clean CLI tool written in C\# for securely hiding text and images 
 
   * **Text Hiding:** Encrypts text with **AES** and hides it within image pixels.
   * **Image Hiding:** Embeds a secret image inside a host image (Stealth Mode).
-  * **UI:** Interactive mode with a Cyberpunk aesthetic.
 
 ### Usage
 
