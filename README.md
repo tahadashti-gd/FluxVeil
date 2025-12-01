@@ -1,4 +1,6 @@
-# FluxVeil
+<img width="2816" height="1536" alt="Gemini_Generated_Image_q3rp65q3rp65q3rp" src="https://github.com/user-attachments/assets/930a8777-a0bf-4a6a-b7b6-825730cf52f4" />
+
+#FluxVeil
 
 A minimal and clean CLI tool written in C\# for securely hiding text and images within other images (Steganography).
 
